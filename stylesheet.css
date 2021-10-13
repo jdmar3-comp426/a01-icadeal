@@ -36,7 +36,28 @@ body {
   background-color: #4169e1;
   }
 
+  #odysseusimage {
+    width: 70%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   #homepageimage:hover span {
+    display: block;
+  }
+
+  #odysseusimage span {
+    display: none;
+    position: absolute;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #4169e1;
+    }
+  
+
+  #odysseusimage:hover span {
     display: block;
   }
 
