@@ -39,3 +39,18 @@ body {
   #homepageimage:hover span {
     display: block;
   }
+
+  p.hell {
+    text-align: center;
+    color: rgb(197, 0, 0);
+  }
+
+  p.heaven {
+    text-align: center;
+    color: rgb(31, 153, 224);
+  }
+
+  p.purgatory {
+    text-align: center;
+    color: rgb(71, 76, 78);
+  }
